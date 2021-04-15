@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### 👋 Hi, yah @Itsmehjustin
+🌱 I’m currently learning 
 <!--
 **emnace13/emnace13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
