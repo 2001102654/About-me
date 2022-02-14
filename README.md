@@ -1,6 +1,8 @@
 ### 👋 Hi, yah @Itsmehjustin
   🌱 I’m currently learning ...
      
+     *Html
+     *CSS
      *C
      *Java
 <!--
