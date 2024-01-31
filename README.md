@@ -1,9 +1,9 @@
-### 👋 Hi, yah @Itsmehjustin
+### 👋 Hi, yah 
   🌱 I’m currently learning ...
      
-     *Html
-     *CSS
-     *C
+     *Html          *javascript
+     *CSS           *php
+     *C             
      *Java
 <!--
 **emnace13/emnace13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
