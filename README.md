@@ -1,4 +1,4 @@
-### 👋 Hi, yah 
+### 👋 Hi, I am Ej, 3rd year IT student of BukSU. 
   🌱 I’m currently learning ...
      
      *Html          *javascript
